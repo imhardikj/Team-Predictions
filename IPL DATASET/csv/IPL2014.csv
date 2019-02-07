@@ -1,4 +1,4 @@
-Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,Balls Bowled,Runs Scored,Economy,Wickets,Ct_St,Run Outs,Matches Played
+ï»¿Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,Balls Bowled,Runs Scored,Economy,Wickets,Ct_St,Run Outs,Matches Played
 1,RV Uthappa,KKR,IND,655,476,137.6,18,73,83,0,0,-,0,8,3.5,15
 2,GJ Maxwell,KXI,AUS,552,293,188.4,36,48,95,66,132,12,1,8,0.5,15
 3,SK Raina,CSK,IND,523,359,145.7,19,51,87,108,134,7.4,1,12,0.8,16
@@ -23,7 +23,7 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 22,KD Karthik,DD,IND,325,258,126,11,28,69,0,0,-,0,9,2,14
 23,KK Nair,RR,IND,330,232,142.2,9,38,73,0,0,-,0,4,0.5,11
 24,V Kohli,BRC,IND,359,294,122.1,14,26,73,0,0,-,0,7,0.5,14
-25,F du Plessis ,CSK,SA,303,235,128.9,7,26,54,0,0,-,0,13,0.5,15
+25,F du PlessisÂ ,CSK,SA,303,235,128.9,7,26,54,0,0,-,0,13,0.5,15
 26,JP Faulkner,RR,AUS,181,94,192.6,16,8,41,258,419,9.7,11,2,1,13
 27,MA Starc,BRC,AUS,85,84,101.2,0,9,29,322,402,7.5,14,9,0.5,14
 28,R Ashwin,CSK,IND,45,45,100,0,4,14,359,437,7.3,16,1,1.5,16
@@ -36,7 +36,7 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 35,KV Sharma,SH,IND,42,29,144.8,3,1,17,304,376,7.4,15,0,1,14
 36,MG Johnson,KXI,AUS,56,50,112,3,4,16,297,403,8.1,15,4,2,13
 37,AM Rahane,RR,IND,339,291,116.5,3,38,72,0,0,-,0,6,0.5,13
-38,YK Pathan ,KKR,IND,232,143,162.2,16,15,72,6,10,10,0,6,1,14
+38,YK PathanÂ ,KKR,IND,232,143,162.2,16,15,72,6,10,10,0,6,1,14
 39,R Bhatia,RR,IND,67,53,126.4,3,4,23,228,283,7.4,12,5,1,12
 40,NV Ojha,SH,IND,232,161,144.1,17,14,79,0,0,-,0,7,2,11
 41,SL Malinga,MI,SL,2,4,50,0,0,2,235,253,6.5,16,0,0,10
@@ -46,8 +46,8 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 45,MK Pandey,KKR,IND,307,290,105.9,4,28,64,0,0,-,0,3,3.5,15
 46,KA Pollard,MI,WI,273,203,134.5,15,15,78,150,262,10.5,2,7,1,15
 47,M Vohra,KXI,IND,257,181,142,14,21,47,0,0,-,0,2,0.5,7
-48,KP Pietersen ,DD,ENG,294,233,126.2,7,34,58,0,0,-,0,2,0,11
-49,PV Tambe ,RR,IND,5,9,55.6,0,0,3,294,356,7.3,15,2,0,13
+48,KP PietersenÂ ,DD,ENG,294,233,126.2,7,34,58,0,0,-,0,2,0,11
+49,PV TambeÂ ,RR,IND,5,9,55.6,0,0,3,294,356,7.3,15,2,0,13
 50,VR Aaron,BRC,IND,35,34,102.9,1,2,17,220,299,8.2,16,0,0,10
 51,PP Chawla,KKR,IND,18,14,128.6,0,3,17,213,259,7.3,12,2,1.5,10
 52,G Gambhir,KKR,IND,312,276,113,4,33,69,0,0,-,0,2,0,15
@@ -58,10 +58,10 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 57,DW Steyn,SH,SA,22,26,84.6,0,1,12,336,431,7.7,11,7,0,14
 58,SA Yadav,KKR,IND,159,111,143.2,5,16,34,6,8,8,0,7,0.5,15
 59,SPD Smith,RR,AUS,147,110,133.6,4,13,48,0,0,-,0,9,0.5,10
-60,JH Kallis ,KKR,SA,151,129,117.1,4,13,72,132,186,8.5,4,2,0,8
+60,JH KallisÂ ,KKR,SA,151,129,117.1,4,13,72,132,186,8.5,4,2,0,8
 61,M Vijay,DD,IND,207,192,107.8,5,20,52,6,13,13,0,8,0,11
 62,MEK Hussey,MI,AUS,209,182,114.8,7,17,56,0,0,-,0,3,0,9
-63,KM Jadhav ,DD,IND,149,101,147.5,7,13,37,0,0,-,0,3,0.5,10
+63,KM JadhavÂ ,DD,IND,149,101,147.5,7,13,37,0,0,-,0,3,0.5,10
 64,UT Yadav,KKR,IND,2,4,50,0,0,2,246,328,8,11,2,0,11
 65,L Balaji,KXI,IND,1,3,33.3,0,0,1,180,258,8.6,12,0,0,8
 66,KW Richardson,RR,AUS,1,2,50,0,0,1,162,206,7.6,9,3,0,7
@@ -71,7 +71,7 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 70,MK Tiwary,DD,IND,152,118,128.8,4,14,61,12,28,14,0,1,0.5,8
 71,Imran Tahir,DD,SA,8,10,80,0,2,4,125,171,8.2,9,0,0,6
 72,CM Gautam,MI,IND,121,111,109,5,13,33,0,0,-,0,6,1,9
-73,DJG Sammy,SH, WI,108,91,118.7,8,4,29,84,157,11.2,3,5,1,10
+73,DJG Sammy,SH,Â WI,108,91,118.7,8,4,29,84,157,11.2,3,5,1,10
 74,DS Kulkarni,RR,IND,35,25,140,2,1,28,162,221,8.2,6,2,0,8
 75,Karanveer Singh,KXI,IND,1,1,100,0,0,1,96,110,6.9,7,1,0,4
 76,AP Tare,MI,IND,126,98,128.6,3,16,24,0,0,-,0,3,0,15
@@ -83,7 +83,7 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 82,WD Parnell,DD,SA,2,2,100,0,0,2,181,223,7.4,6,2,0,8
 83,BW Hilfenhaus,CSK,AUS,0,0,-,0,0,0,168,246,8.8,8,1,0.5,8
 84,Z Khan,MI,IND,8,7,114.3,1,0,7,134,146,6.5,5,0,0,6
-85,S Nadeem ,DD,IND,7,19,36.8,0,0,3,228,311,8.2,8,0,0.5,11
+85,S NadeemÂ ,DD,IND,7,19,36.8,0,0,3,228,311,8.2,8,0,0.5,11
 86,YV Takawale,BRC,IND,104,91,114.3,1,17,45,0,0,-,0,3,1,5
 87,JD Unadkat,DD,IND,1,6,16.7,0,0,1,187,270,8.7,9,0,0,9
 88,BJ Hodge,RR,AUS,101,72,140.3,6,4,40,0,0,-,0,2,0,4
@@ -102,11 +102,11 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 101,S Rana,BRC,IND,73,65,112.3,1,8,19,12,16,8,0,3,0,9
 102,A Mishra,SH,IND,4,7,57.1,0,0,4,225,340,9.1,7,0,0,10
 103,M Manhas,CSK,IND,35,23,152.2,1,3,13,0,0,-,1,3,0,12
-104,P Awana ,KXI,IND,0,0,-,0,0,0,120,202,10.1,7,0,0,6
+104,P AwanaÂ ,KXI,IND,0,0,-,0,0,0,120,202,10.1,7,0,0,6
 105,Y Venugopal Rao,SH,IND,71,63,112.7,0,8,27,12,16,8,0,2,0,7
 106,Shivam Sharma,KXI,IND,5,3,166.7,0,1,4,96,121,7.6,3,1,0,4
 107,CA Lynn,KKR,AUS,58,49,118.4,3,5,45,0,0,-,0,2,0,2
-108,HV Patel ,BRC,IND,13,7,185.7,1,1,6,66,113,10.3,4,1,0,3
+108,HV PatelÂ ,BRC,IND,13,7,185.7,1,1,6,66,113,10.3,4,1,0,3
 109,R Tewatia,RR,IND,16,13,123.1,1,0,16,54,59,6.6,2,0,0,3
 110,MC Henriques,SH,AUS,9,14,64.3,0,1,9,60,96,9.6,4,2,0,4
 111,AN Ahmed,BRC,IND,4,1,400,0,1,4,86,113,7.9,3,0,0,4
@@ -114,7 +114,7 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 113,M Muralitharan,BRC,SL,0,0,-,0,0,0,96,124,7.8,3,0,0,5
 114,AB Dinda,BRC,IND,4,12,33.3,0,0,2,186,270,8.7,5,0,0,9
 115,LRPL Taylor,DD,NZ,59,59,100,0,6,43,0,0,-,0,2,0,4
-116,PP Ojha ,MI,IND,4,8,50,0,0,2,276,380,8.3,4,0,0,12
+116,PP OjhaÂ ,MI,IND,4,8,50,0,0,2,276,380,8.3,4,0,0,12
 117,S Badree,CSK,WI,0,0,-,0,0,0,84,97,6.9,2,0,0,4
 118,BCJ Cutting,RR,AUS,8,6,133.3,1,0,8,24,31,7.8,1,1,1,1
 119,R Shukla,DD,IND,18,21,85.7,0,0,14,54,98,10.9,2,1,1.5,3
@@ -130,7 +130,7 @@ Sl.no,Player's Name,Team,From,Run,Ball,Strike Rate,Six,Four,Highest Run Scored,B
 129,LR Shukla,DD,IND,31,38,81.6,1,2,21,56,83,8.9,1,1,0,5
 130,VH Zol,BRC,IND,29,26,111.5,1,3,16,0,0,-,0,0,0,3
 131,JDS Neesham,DD,NZ,42,46,91.3,1,3,22,54,91,10.1,1,0,0,4
-132,Mandeep Singh ,KXI,IND,24,26,92.3,0,2,21,0,0,-,0,1,0,3
+132,Mandeep SinghÂ ,KXI,IND,24,26,92.3,0,2,21,0,0,-,0,1,0,3
 133,NJ Maddinson,BRC,AUS,16,14,114.3,0,3,12,0,0,-,0,1,0,2
 134,TG Southee,RR,NZ,4,4,100,0,1,4,60,76,7.6,0,2,0,3
 135,VS Malik,RR,IND,1,2,50,0,0,1,18,29,9.7,1,1,0,1

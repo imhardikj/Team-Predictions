@@ -5,17 +5,17 @@ Selecting an IPL ALL Stars team based on past performance of Players.
 
 ** After doing the Year-wise analysis we have made a team of best 11 players.  **
 ** The Team includes following Players: **
-    ### 1. Rohit Sharma (VC)
-    ### 2. Shane Watson
-    ### 3. Virat Kohli
-    ### 4. AB de Villliers 
-    ### 5. Suresh Raina 
-    ### 6. MS Dhoni (WK & C) 
-    ### 7. Andre Russell
-    ### 8. Hardik Pandya
-    ### 9. Sunil Narine 
-    ### 10. Bhuvneshwar Kumar
-    ### 11. Jasprit Bumrah
+     		 1. Rohit Sharma (VC)
+    	         2. Shane Watson
+    		 3. Virat Kohli
+    		 4. AB de Villliers 
+    		 5. Suresh Raina 
+    		 6. MS Dhoni (WK & C) 
+    		 7. Andre Russell
+    		 8. Hardik Pandya
+    		 9. Sunil Narine 
+    		 10. Bhuvneshwar Kumar
+    		 11. Jasprit Bumrah
     
     
 Tools used to select our team includes:

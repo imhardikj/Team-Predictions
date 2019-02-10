@@ -4,7 +4,9 @@ Selecting an IPL ALL Stars team based on past performance of Players.
 # ALL STARS IPL Team
 
 ** After doing the Year-wise analysis we have made a team of best 11 players.  **
-** The Team includes following Players: **
+
+
+	** The Team includes following Players: **
 
 		1. Rohit Sharma (VC)
     	2. Shane Watson

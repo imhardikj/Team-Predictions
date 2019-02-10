@@ -67,7 +67,7 @@ app.layout = html.Div([
 
     html.H1('ALL STARS IPL TEAM ANALYSIS'),
     html.P('Here we are plotting all the possible cases taken for selecting players of ALL STARS team'),
-
+    
     #batting-runs
     dcc.Graph(
         id='scatter-chartdf',

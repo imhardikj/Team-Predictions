@@ -1,0 +1,53 @@
+body {
+	background-color: grey;
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+}
+
+p{
+	font-family: sans-serif;
+}
+
+div #scatter-chartdf{
+	background-color: grey;
+	font-family: serif;
+	align-self: auto;
+}
+
+#scatter-chartdf1{
+	background-color: grey;
+	font-family: serif;
+	align-self: auto;
+}
+
+#scatter-chartdf2{
+	font-family: serif;
+	background-color: grey;
+	align-self: auto;
+}
+
+#scatter-chartdf3{
+	font-family: serif;
+	background-color: grey;
+	align-self: auto;
+}
+
+#scatter-chartdf4{
+	font-family: serif;
+	background-color: grey;
+	align-self: auto;
+}
+
+#scatter-chartdf5{
+	font-family: serif;
+	background-color: grey;
+	align-self: auto;
+}
+
+.gl-container{
+	background-color: grey;
+	font-family: sans-serif;
+
+}
